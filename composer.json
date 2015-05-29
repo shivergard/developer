@@ -1,0 +1,31 @@
+{
+    "name": "shivergard/developer",
+    "description": "",
+    "authors": [
+        {
+            "name": "Ronalds Sovas",
+            "email": "shivergard@users.noreply.github.com"
+        }
+    ],
+
+    "repositories": [
+      {
+      "type": "git",
+       "url": "git@github.com:shivergard/Crud.git"
+      }
+    ],
+
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "5.0.*",
+        "shivergard/crud" : "dev-master"
+
+
+    },
+    "autoload": {
+        "psr-0": {
+            "Shivergard\\Developer": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
