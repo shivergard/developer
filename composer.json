@@ -11,7 +11,7 @@
     "repositories": [
       {
       "type": "git",
-       "url": "git@github.com:shivergard/Crud.git"
+       "url": "git@github.com:shivergard/crud.git"
       }
     ],
 
