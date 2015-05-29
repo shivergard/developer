@@ -24,5 +24,5 @@ and add service provider
 		'providers' => [
 		...
       'Shivergard\Crud\CrudServiceProvider',
-			'Shivergard\Developer\DeveloperServiceProvider',
+      'Shivergard\Developer\DeveloperServiceProvider',
 		...
