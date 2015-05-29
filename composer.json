@@ -7,7 +7,7 @@
             "email": "shivergard@users.noreply.github.com"
         }
     ],
-
+    "minimum-stability": "dev",
     "repositories": [
       {
       "type": "git",
