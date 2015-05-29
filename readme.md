@@ -1,5 +1,12 @@
 To Start using it add to composer.json repozitory
 
+    "repositories": [
+      {
+      "type": "git",
+       "url": "git@github.com:shivergard/developer.git"
+      }
+    ],
+
 and add requirements
 
 	"require": {
